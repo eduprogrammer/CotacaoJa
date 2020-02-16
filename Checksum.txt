@@ -1,0 +1,15 @@
+	Créditos: Eduardo Marques
+
+	##### Lista de algoritmos criptográficos (hash) para verificação da integridade do programa #####
+
+Hash's originais: 
+
+MD5: dcad6d8485fa8b95b7e9d20be63c337f
+SHA-256: 05f5179fe5876d9321fd979f85e1618695bf0ad90a669d77dc9d6892247636d1
+SHA-512: 16edf521555872f9d6f376e853b76c139925fb2fb1be887743f899e1bc6520f4784ec07ead39e80225edd3310c3d676fa5b75172b7adea9e6704a5b864db82f4
+
+	- Compare a hash do pragrama "CotacaoJaV2.exe" através de um programa de sua preferência,
+	verificando se a hash obtida é igual às anteriormente citadas.
+	Em caso de divergências, contate o programador: edumfariabraga@gmail.com
+
+	##### FIM #####
